@@ -1,4 +1,4 @@
-# Go_Hello_World
+# Golang_Hello_World
 Go言語を触ってみる！
 
 # 環境
